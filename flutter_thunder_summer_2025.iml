@@ -15,10 +15,15 @@
       <excludeFolder url="file://$MODULE_DIR$/lessons/session_02_flutter/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/lessons/session_02_flutter/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/lessons/session_02_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/session_03_dart/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/session_03_dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/session_03_dart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/session_03_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/session_03_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/session_03_flutter/build" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
     <orderEntry type="library" name="Flutter Plugins" level="project" />
-    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
