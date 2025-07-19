@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/session_02_dart/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/session_02_dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/session_02_dart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/session_02_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/session_02_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/session_02_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/session_03_dart/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/session_03_dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/session_03_dart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/session_03_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/session_03_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/session_03_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/session_04_dart/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/session_04_dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/session_04_dart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/session_04_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/session_04_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/session_04_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/session_05_dart/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/session_05_dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/session_05_dart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/session_05_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/session_05_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/session_05_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/session_06_dart/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/session_06_dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/session_06_dart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/session_06_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/session_06_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/session_06_flutter/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
