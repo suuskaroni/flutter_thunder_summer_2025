@@ -18,5 +18,6 @@ void main() {
   expect(getLength('Susu'), 4);
   expect(convertTemperature(40, 'F'), 104.0);
   expect(currencyConversion(3580, 'MNT','USD'), 1);
+  expect(currencyConversion(15, 'USD','MNT'), 53700);
   });
 }
