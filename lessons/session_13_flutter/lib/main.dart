@@ -3,6 +3,16 @@ import 'package:session_13_flutter/e_commerce_screen_before.dart';
 
 void main() {
   runApp(MaterialApp(
+    theme: ThemeData(brightness: Brightness.dark,
+         primaryColor: Colors.pink,
+      appBarTheme: AppBarTheme(
+        elevation: 10,
+        titleTextStyle:
+          TextStyle(
+            fontFamily: 'LeckerliOne', fontSize: 24
+          )
+      )
+    ),
     home: ECommerceScreenBefore(),
   ));
 }
