@@ -85,6 +85,15 @@ flutter:
      - family: Nunito-Italic
        fonts:
           - asset: assets/fonts/Nunito-Italic.ttf
+     - family: Poppins-Black
+       fonts:
+           - asset: assets/fonts/Poppins-Black.ttf
+     - family: Poppins-Bold
+       fonts:
+           - asset: assets/fonts/Poppins-Bold.ttf
+     - family: Poppins-Italic
+       fonts:
+           - asset: assets/fonts/Poppins-Italic.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #
