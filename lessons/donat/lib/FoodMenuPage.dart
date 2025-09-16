@@ -1,32 +1,24 @@
+import 'package:donat/smoothie_content.dart';
 import 'package:flutter/material.dart';
 import 'package:donat/TabButton.dart';
+import 'package:donat/Donut_Content.dart';
 enum FoodTab { smoothie, donut }
 
 // Move _TabButton outside the State class
 
 
 // Minimal implementation for content widgets to make the code runnable
-class SmoothieContent extends StatelessWidget {
-  const SmoothieContent({super.key});
+// class SmoothieContent extends StatelessWidget {
+//   const SmoothieContent({super.key});
+//
+//   @override
+//   Widget build(BuildContext context) {
+//     return const Center(
+//       child: SmoothieContent(),
+//     );
+//   }
+// }
 
-  @override
-  Widget build(BuildContext context) {
-    return const Center(
-      child: Text('Smoothie Content', style: TextStyle(fontSize: 24)),
-    );
-  }
-}
-
-class DonutContent extends StatelessWidget {
-  const DonutContent({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return const Center(
-      child: Text('Donut Content', style: TextStyle(fontSize: 24)),
-    );
-  }
-}
 
 class FoodMenuPage extends StatefulWidget {
   const FoodMenuPage({super.key});

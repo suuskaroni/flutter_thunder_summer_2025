@@ -1,3 +1,4 @@
+import 'package:donat/information.dart';
 import 'package:donat/second_screen.dart';
 import 'package:donat/start_page.dart';
 import 'package:donat/start_screen.dart';
@@ -7,7 +8,7 @@ void main() {
   runApp(
     MaterialApp(
 
-      home: FoodMenuPage(),
+      home: Information(),
     ),
   );
 }
